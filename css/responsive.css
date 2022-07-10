@@ -1,0 +1,16 @@
+@media screen and (max-width:680px) {
+  
+    .search1 input {
+        border-radius: 30px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+        width: 22rem;
+        height: 44px;
+        border: 2px solid #b6b8b9;
+    }
+    .googleoffer{
+        flex-wrap: wrap;
+    }
+
+
+}
